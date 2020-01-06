@@ -1,0 +1,6 @@
+Requirement 
+1. Python 3.7.0
+2. Command prompt
+3. Local server(Xammp or Wamp)
+4. Browser
+5. Text editor(PyCharm, NotePad++)
